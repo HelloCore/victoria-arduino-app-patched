@@ -4,6 +4,8 @@ This app communicates with the machine directly using Bluetooth. However, the se
 
 This is the patch to bypass the launch screen, so we can use the main functionality of the app.
 
+You can manually patch the APK or download the patched version from https://github.com/HelloCore/victoria-arduino-app-patched/releases/tag/1.7.2
+
 ## Prerequisite Tools
 
 - Android Studio (https://developer.android.com/studio)
